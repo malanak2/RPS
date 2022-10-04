@@ -1,0 +1,6 @@
+main.py
+setup.py
+theGamer.egg-info/PKG-INFO
+theGamer.egg-info/SOURCES.txt
+theGamer.egg-info/dependency_links.txt
+theGamer.egg-info/top_level.txt
