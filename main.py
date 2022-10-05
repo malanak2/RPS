@@ -125,5 +125,5 @@ if __name__ == '__main__':
     print("Hello and welcome to The Gamer!")
     game = chooseGame()
     gm = Game()
+    #code isn't in main, so I can repeat it (in)finite amount of times
     play(game)
-
